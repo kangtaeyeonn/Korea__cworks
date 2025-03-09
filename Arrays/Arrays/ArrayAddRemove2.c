@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define MAX_LEN 4 //상수
 
-int main()
+int main_ArrayAddRemove2()
 {
 	//정수형 배열 생성
 	int carts[MAX_LEN];

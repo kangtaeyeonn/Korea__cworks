@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\cworks\\Function\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|solutionrelative:Function\\TypingGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\StringGetchar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|solutionrelative:Function\\StringGetchar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\Function1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|solutionrelative:Function\\Function1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\DateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|solutionrelative:Function\\DateTime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\Calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|solutionrelative:Function\\Calculator.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|solutionrelative:Function\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\CalculatorMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|solutionrelative:Function\\CalculatorMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|solutionrelative:Function\\UpperCase.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,12 +39,8 @@
       "RelativeMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|solutionrelative:Function\\StringFunction.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\CalculatorMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|solutionrelative:Function\\CalculatorMain.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|solutionrelative:Function\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|C:\\cworks\\Function\\Function\\Rand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8794E20B-1591-4921-8F50-8E1BBBE78C33}|Function\\Function.vcxproj|solutionrelative:Function\\Rand.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,45 +55,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TypingGame.c",
+              "DocumentMoniker": "C:\\cworks\\Function\\Function\\TypingGame.c",
+              "RelativeDocumentMoniker": "Function\\TypingGame.c",
+              "ToolTip": "C:\\cworks\\Function\\Function\\TypingGame.c",
+              "RelativeToolTip": "Function\\TypingGame.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-09T02:27:29.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringGetchar.c",
+              "DocumentMoniker": "C:\\cworks\\Function\\Function\\StringGetchar.c",
+              "RelativeDocumentMoniker": "Function\\StringGetchar.c",
+              "ToolTip": "C:\\cworks\\Function\\Function\\StringGetchar.c",
+              "RelativeToolTip": "Function\\StringGetchar.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-09T02:08:15.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rand.c",
+              "DocumentMoniker": "C:\\cworks\\Function\\Function\\Rand.c",
+              "RelativeDocumentMoniker": "Function\\Rand.c",
+              "ToolTip": "C:\\cworks\\Function\\Function\\Rand.c",
+              "RelativeToolTip": "Function\\Rand.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-09T01:26:32.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "UpperCase.c",
               "DocumentMoniker": "C:\\cworks\\Function\\Function\\UpperCase.c",
               "RelativeDocumentMoniker": "Function\\UpperCase.c",
-              "ToolTip": "C:\\cworks\\Function\\Function\\UpperCase.c*",
-              "RelativeToolTip": "Function\\UpperCase.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\cworks\\Function\\Function\\UpperCase.c",
+              "RelativeToolTip": "Function\\UpperCase.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-23T02:23:36.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "StringFunction.c",
               "DocumentMoniker": "C:\\cworks\\Function\\Function\\StringFunction.c",
               "RelativeDocumentMoniker": "Function\\StringFunction.c",
               "ToolTip": "C:\\cworks\\Function\\Function\\StringFunction.c",
               "RelativeToolTip": "Function\\StringFunction.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-23T01:44:53.231Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CalculatorMain.c",
               "DocumentMoniker": "C:\\cworks\\Function\\Function\\CalculatorMain.c",
               "RelativeDocumentMoniker": "Function\\CalculatorMain.c",
               "ToolTip": "C:\\cworks\\Function\\Function\\CalculatorMain.c",
               "RelativeToolTip": "Function\\CalculatorMain.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-23T00:31:08.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Calculator.h",
               "DocumentMoniker": "C:\\cworks\\Function\\Function\\Calculator.h",
               "RelativeDocumentMoniker": "Function\\Calculator.h",
@@ -77,7 +140,47 @@
               "RelativeToolTip": "Function\\Calculator.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-23T00:38:30.591Z"
+              "WhenOpened": "2025-02-23T00:38:30.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.c",
+              "DocumentMoniker": "C:\\cworks\\Function\\Function\\Calculator.c",
+              "RelativeDocumentMoniker": "Function\\Calculator.c",
+              "ToolTip": "C:\\cworks\\Function\\Function\\Calculator.c",
+              "RelativeToolTip": "Function\\Calculator.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-23T00:37:04.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DateTime.c",
+              "DocumentMoniker": "C:\\cworks\\Function\\Function\\DateTime.c",
+              "RelativeDocumentMoniker": "Function\\DateTime.c",
+              "ToolTip": "C:\\cworks\\Function\\Function\\DateTime.c",
+              "RelativeToolTip": "Function\\DateTime.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-15T02:15:05.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Function1.c",
+              "DocumentMoniker": "C:\\cworks\\Function\\Function\\Function1.c",
+              "RelativeDocumentMoniker": "Function\\Function1.c",
+              "ToolTip": "C:\\cworks\\Function\\Function\\Function1.c",
+              "RelativeToolTip": "Function\\Function1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-15T00:44:44.804Z",
+              "EditorCaption": ""
             }
           ]
         }
